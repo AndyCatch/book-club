@@ -7,6 +7,7 @@ export const GlobalStyle = createGlobalStyle`
     margin:0;
     -webkit-font-smoothing:antialiased;
     text-rendering: optimizeLegibility;
+    background-color: #a7e1f8;
   }
 `
 export const Pill = styled.div`
